@@ -147,7 +147,7 @@ ai_brain.predict(X_n1_1)
 
 ## Dataset Information
 
-<img src="https://github.com/Kaushika-Anandh/basic-nn-model/blob/main/dataset.PNG" width="100" height="400">
+<img src="https://github.com/Kaushika-Anandh/basic-nn-model/blob/main/dataset.PNG" width="120" height="400">
 
 ## OUTPUT
 
